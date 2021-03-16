@@ -32,7 +32,6 @@ option = {
             stack: 'total',
             label: {
                 show: true
-
             },
             emphasis: {
                 focus: 'series'
