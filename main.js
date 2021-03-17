@@ -8,7 +8,7 @@ option = {
         }
     },
     legend: {
-        //data: ['Direct',  'Search Engine']
+        
         data: ['Yüz binde Vaka Sayısı(27 Şubat-5Mart)',  'Artis']
     },
     grid: {
