@@ -38,7 +38,7 @@ option = {
             },
             data: [348.36, 163.17, 172.46, 111.57, 134.76, 24.84, 150.98, 65.63, 97.72, 107.29]
         },
-     
+
         {
             name: 'Artis',
             type: 'bar',
@@ -69,7 +69,7 @@ option = {
     },
     legend: {
         data: ['Yüz binde Vaka Sayısı(27 Şubat-5Mart)',  'Azalis']
-       // data: ['Yüz binde Vaka Sayısı(27 Şubat-5Mart)',  ' Artış']
+       
     },
     grid: {
         left: '3%',
