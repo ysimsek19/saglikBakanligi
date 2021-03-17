@@ -3,7 +3,7 @@ var myChart = echarts.init(document.getElementById('artis'));
 option = {
     tooltip: {
         trigger: 'axis',
-        axisPointer: {            // Use axis to trigger tooltip
+        axisPointer: {            
             type: 'shadow'        // 'shadow' as default; can also be 'line' or 'shadow'
         }
     },
